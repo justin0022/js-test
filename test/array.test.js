@@ -1,5 +1,5 @@
 const {
-  filterObjectWithIdGreaterThan5
+  filterObjectWithIdGreaterThan5,
 } = require('../array.js')
 
 test('filter out array of objects where object id is greater than 5', () => {
